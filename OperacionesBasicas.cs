@@ -3,6 +3,8 @@
 public class Class1
 {
 
+	public Class1()
+	{
     private int num1;
     private int num2;
 
@@ -17,4 +19,11 @@ public class Class1
     {
         return num1 * num2;
     }
+    public void division()
+
+        {
+			return num1 / num2;
+        }
+	}
+
 }
