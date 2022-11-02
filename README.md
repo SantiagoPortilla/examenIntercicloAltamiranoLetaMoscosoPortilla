@@ -1,5 +1,8 @@
-# examenIntercicloAltamiranoLetaMoscosoPortilla
+# Examen Interciclo
 
-Juan Moscoso
-Santiago Portilla
-Pablo Leta
+## Integrantes:
+
+- Juan Moscoso
+- Santiago Portilla
+- Pablo Leta
+- Victoria Altamirano
